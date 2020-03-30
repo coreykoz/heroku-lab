@@ -1,4 +1,4 @@
-const url = "https://guarded-shore-17902.herokuapp.com/ ";
+const url = "https://guarded-shore-17902.herokuapp.com/";
 
 function counterCreate() {
   (async () => {
