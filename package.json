@@ -1,0 +1,23 @@
+{
+  "name": "heroku-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pcrud-async-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreykoz/heroku-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreykoz/heroku-lab/issues"
+  },
+  "homepage": "https://github.com/coreykoz/heroku-lab#readme",
+  "dependencies": {
+    "level": "^6.0.1"
+  }
+}
